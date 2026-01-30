@@ -1,4 +1,4 @@
-<img src="https://github.com/Ranjinie-Souria/Video-Club/blob/main/src/assets/logo.png?raw=true" alt="Logo" width="500" />
+<img src="./src/assets/logo.png" alt="Logo" width="500" />
 
 # Simple video converter
 
